@@ -1,0 +1,15 @@
+.clock-widget {
+    display: flex;
+    .date-container {
+        display: inline;
+
+    }
+    .time-container {
+        display: inline;
+        
+    }
+    .timeoffset-container {
+        display: inline;
+
+    }
+}
